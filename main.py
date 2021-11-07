@@ -24,8 +24,8 @@ def predictor(image):  # Faz a predição com a imagem cropada cinza normalizada
     image = np.array(image, dtype='float32')
     image /= 255
     pred_array = classifier.predict(image)
-    print(pred_array)
-    print(np.argmax(pred_array))
+    #print(pred_array)
+    #print(np.argmax(pred_array))
     result = letras[np.argmax(pred_array)]
     return result
 
