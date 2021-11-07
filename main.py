@@ -14,7 +14,7 @@ from keras.models import load_model
 
 image_x, image_y = 64, 64
 
-classifier = load_model('./nosso projeto/modelete.h5')
+classifier = load_model('./model/model.h5')
 
 classes = 9
 letras = ['C', 'E', 'F', 'I', 'M', 'N', 'O', 'R', 'S']
