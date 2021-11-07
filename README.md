@@ -3,5 +3,5 @@
  Currently only working with the letters C, E, F, I, M, N, O, R and S.<br/>
  You can test the code yourself by running the main.py file and follow the instructions bellow: <br/>
 <p align="center">
-![](https://i.imgur.com/LdkOxvP.png | width=100)
+<img src="https://i.imgur.com/LdkOxvP.png" width="350" height="100">
 </p>
